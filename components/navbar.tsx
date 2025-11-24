@@ -45,12 +45,6 @@ export function NavBar() {
             Reviews
           </Link>
         </div>
-
-        <div className="hidden md:flex flex-col items-end text-right">
-          <p className="text-sm font-light tracking-wide text-[color-brand]">
-            Book Club Reviews & Discussions
-          </p>
-        </div>
       </div>
     </nav>
   );
